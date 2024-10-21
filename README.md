@@ -1,15 +1,4 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
 
 TODO:A Flutter package that provides a sleek and customizable countdown timer widget with animations and lifecycle callbacks for starting and completing the countdown. Perfect for use in splash screens, games, timed challenges, or any scenario where a countdown enhances the user experience.
 
