@@ -1,7 +1,7 @@
 name: animated_countdown_timer
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "A customizable countdown timer with animations and callbacks."
+version: 0.1.4
+homepage: "https://github.com/gautamshaileshk/AnimatedCountdownTimer"
 
 environment:
   sdk: ^3.5.3
